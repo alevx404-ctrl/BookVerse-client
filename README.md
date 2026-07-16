@@ -6,7 +6,7 @@ BookVerse is a modern full-stack book catalog web application built with **React
 
 ## 🌐 Live Demo
 
-- **Frontend:** [YOUR-VERCEL-URL.vercel.app](https://YOUR-VERCEL-URL.vercel.app)
+- **Frontend:** [book-VERCEL-URL.vercel.app](https://book-verse-client-ochre.vercel.app/)
 - **Backend API:** [bookverse-server-n9xh.onrender.com](https://bookverse-server-n9xh.onrender.com)
 
 ---
